@@ -22,7 +22,7 @@
     "vitest": "npm:@voidzero-dev/vite-plus-test@latest",
     "vite-plus": "latest"
   },
-  "packageManager": "npm@11.11.1",
+  "packageManager": "npm@12.2.1",
   "overrides": {
     "vite": "npm:@voidzero-dev/vite-plus-core@latest",
     "vitest": "npm:@voidzero-dev/vite-plus-test@latest"
